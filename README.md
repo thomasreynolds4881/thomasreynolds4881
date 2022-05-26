@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - Currently looking for a software job
 - I believe in Python supremacy 🛐🛐🛐
 - Can solve a Rubik's cube in like 20 seconds
-- Message me if you have a project I could work on !!
-
-_Resume: [Updated May 2022](https://github.com/thomasreynolds4881/thomasreynolds4881/blob/main/june2022.pdf)_
+- Message me if you have a project I could work on!!
