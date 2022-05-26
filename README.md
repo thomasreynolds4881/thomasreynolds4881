@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### he/him
-##### Python supremacy
+- My pronouns are he/him
+- I'm currently looking for a software job
+- I believe in Python supremacy 🛐🛐🛐
 
-Hello! I'm a recent Computer Science and Data Analytics graduate from Drake University. My skillset includes over four years of experience with several programming languages, frameworks, and theoretical aspects of computer science. I've also worked in the IT field, in which I've gained valuable experience working with end users and honing my general troubleshooting skills. I aspire to deepen my computing knowledge and work as a full-stack software developer or similar position within the Twin Cities area.
+Hello! I'm a recent Computer Science and Data Analytics graduate from Drake University. My skillset includes over four years of experience with several programming languages, frameworks, and theoretical aspects of computer science. I've also worked in the IT field, in which I've gained valuable experience working with end users and honing my general troubleshooting skills. I'm looking forward to deepening my computing knowledge and want to work as a full-stack software developer or hold a similar position within the Twin Cities area!
