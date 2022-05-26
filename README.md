@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 Hello! I'm a recent Computer Science and Data Analytics graduate from Drake University. My skillset includes over four years of experience with several programming languages, frameworks, and theoretical aspects of computer science. I've also worked in the IT field, in which I've gained valuable experience working with end users and honing my general troubleshooting skills. I'm looking forward to deepening my computing knowledge and want to work as a full-stack software developer or hold a similar position within the Twin Cities area!
 
-_Contact Info: treynolds3610@gmail.com_
+_Email: treynolds3610@gmail.com_
+
+_Resume: [Updated May 2022](https://github.com/thomasreynolds4881/thomasreynolds4881/blob/main/june2022.pdf)_
