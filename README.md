@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 - Can solve a Rubik's cube in like 20 seconds
 - Message me if you have a project I could work on !!
 
-_Email: treynolds3610@gmail.com_
-
 _Resume: [Updated May 2022](https://github.com/thomasreynolds4881/thomasreynolds4881/blob/main/june2022.pdf)_
