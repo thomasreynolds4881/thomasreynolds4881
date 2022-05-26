@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - My pronouns are he/him
 - Currently looking for a software job
-- I believe in Python supremacy 🛐🛐🛐
+- I believe in Python supremacy 🐍🛐🛐🛐
 - Can solve a Rubik's cube in like 20 seconds
 - Message me if you have a project I could work on!!
